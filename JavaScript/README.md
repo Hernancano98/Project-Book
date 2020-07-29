@@ -1,9 +1,11 @@
 
-[<-Back to root](../README.md)
+[<-- BACK TO ROOT](../README.md)
 
-# JavaScript
+# **JavaScript**
 
-## Sub-directories:
+### Sub-directories:
 
++ [Maximiliano Bustos](./MaximilianoBustos/README.md)
++ [Gonzalo Muñoz](./GonzaloMuñoz/README.md)
 
-[<-Back to root](../README.md)
+[<-- BACK TO ROOT](../README.md)
