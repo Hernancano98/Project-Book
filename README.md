@@ -1,6 +1,6 @@
 # **Project-Book**
 
-This is a collaborative repository about a **collection of projects** that use **different technologies**. Each collaborator uploads his own code in the corresponding folders with a complete description of his work.
+This is a collaborative repository about a **collection of projects** that use **different technologies**. Each collaborator uploads his own code to the corresponding directory with a complete description of his work.
 
 + Languages:
   - [Java](./Java/README.md)
@@ -18,4 +18,3 @@ This is a collaborative repository about a **collection of projects** that use *
   - [Muñoz Gonzalo](https://github.com/totigm)
 
 > “You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future.” Steve Jobs
-
