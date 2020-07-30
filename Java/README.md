@@ -8,8 +8,6 @@ The **main objective** with this language is to create software that has a deskt
 
 ![Structure](./docs/img/Structure.png)
 
-Right now we are in the learning and practice stage, but the goal is on track.
-
 ### Projects:
 
 + [REST API](../HernanCano/REST_API/README.md)

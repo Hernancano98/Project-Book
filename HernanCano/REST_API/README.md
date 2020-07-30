@@ -1,6 +1,4 @@
-[<-- Back to Java](../../Java/README.md)
-
-[<-- Back to Hernan Cano's Project](../README.md)
+<-- Back to [Java](../../Java/README.md) | [Hernan's folder](../README.md)
 
 # REST API
 
@@ -8,7 +6,7 @@
 
 Author - [Hernan Cano](https://github.com/Hernancano98)
 
-[<-- Back to Hernan Cano's Project](../README.md)
+<-- Back to [Java](../../Java/README.md) | [Hernan's folder](../README.md)
 
-[<-- Back to Java](../../Java/README.md)
+
 
