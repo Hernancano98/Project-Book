@@ -3,7 +3,7 @@
 
 # **JavaScript**
 
-### Sub-directories:
+## Sub-directories:
 
 + [Maximiliano Bustos](./MaximilianoBustos/README.md)
 + [Gonzalo Muñoz](./GonzaloMuñoz/README.md)
