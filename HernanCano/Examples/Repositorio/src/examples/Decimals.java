@@ -12,6 +12,9 @@ import java.util.Scanner;
 public class Decimals {
 
     public Decimals() {
+        
+        System.out.println("////////////////////////////////////////////////////");
+        System.out.println("DECIMALS EXAMPLE");
 
         /* 
         

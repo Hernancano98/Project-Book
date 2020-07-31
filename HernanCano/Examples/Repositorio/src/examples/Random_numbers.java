@@ -13,6 +13,7 @@ public class Random_numbers {
 
     public Random_numbers() {
         System.out.println("///////////////////////////////////////////////////");
+        System.out.println("RANDOM NUMBERS EXAMPLE");
         System.out.println("Using Math class:");
         int randomNumber = (int)(Math.random()*1000); // Casting (double --> int)
         System.out.println("    Random generated number: " + randomNumber);
