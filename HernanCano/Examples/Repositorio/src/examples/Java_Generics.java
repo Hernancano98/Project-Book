@@ -19,6 +19,7 @@ public class Java_Generics<T extends Number, V extends Number> { // Bounded type
 
     public Java_Generics(T objeto, V objeto2) {
         System.out.println("////////////////////////////////////////////////////");
+        System.out.println("JAVA GENERICS EXAMPLE");
         
         this.obj = objeto;
         this.obj2 = objeto2;

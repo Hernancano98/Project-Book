@@ -22,8 +22,7 @@ public class Tester {
         Random_numbers test2 = new Random_numbers();
         Division test4 = new Division();
         //Matrices test3 = new Matrices(0);
-
         Java_Generics<Integer, Double> test5 = new Java_Generics<>(4,34.66); // Inside the brackets we specify the types we are sending. It needs to be an object type, not a primitive.
-        //Ejercicio_Rangos test6 = new Ejercicio_Rangos();
+        Ranges_Exercise test6 = new Ranges_Exercise();
     }
 }
