@@ -17,7 +17,7 @@ public class Tester {
         */
         
         Decimals test1 = new Decimals();
-        //Numero_Aleatorio test2 = new Numero_Aleatorio();
+        Random_numbers test2 = new Random_numbers();
         //Matrices test3 = new Matrices(0);
         //Division test4 = new Division();
         //Java_Generics<Integer, Double> test5 = new Java_Generics<>(4,34.66); // Dentro de las llaves se indica el tipo de dato
