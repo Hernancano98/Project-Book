@@ -1,4 +1,4 @@
-[<-- BACK TO ROOT](../README.md)
+[<-- Back to root](../README.md)
 
 # **Java**
 
@@ -8,15 +8,9 @@ The **main objective** with this language is to create software that has a deskt
 
 ![Structure](./docs/img/Structure.png)
 
-Right now we are in the learning and practice stage, but the goal is on track.
-
 ### Projects:
 
-+ [REST API](./HernanCano/API_REST/README.md) - Hernán Cano
++ [REST API](../HernanCano/REST_API/README.md)
 
-### Sub-directories:
 
-+ [Enzo Avena](./EnzoAvena/README.md)
-+ [Hernán Cano](./HernanCano/README.md)
-
-[<-- BACK TO ROOT](../README.md)
+[<-- Back to root](../README.md)
